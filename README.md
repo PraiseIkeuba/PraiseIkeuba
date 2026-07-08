@@ -15,7 +15,7 @@ I enjoy building practical cybersecurity projects that demonstrate real world sk
 ## Projects
 | Project | Description | Repository |
 | ------- | ----------- | ---------- |
-| OSINT Investigation | Conducted an OSINT investigation on a target organisation | Coming Soon |
+| OSINT Investigation | Conducted an OSINT investigation on a target organisation | https://github.com/PraiseIkeuba/osint-project |
 
 ## Skills
 ### Operating Systems
