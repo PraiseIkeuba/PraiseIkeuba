@@ -16,6 +16,9 @@ I enjoy building practical cybersecurity projects that demonstrate real world sk
 | Project | Description | Repository |
 | ------- | ----------- | ---------- |
 | OSINT Investigation | Conducted an OSINT investigation on a target organisation | https://github.com/PraiseIkeuba/osint-project |
+| Log Analysis | Analysed IIS and Windows Event Logs to identify Attacks | Coming Soon |
+| Malware Analysis | Completed a malware analysis project | https://github.com/PraiseIkeuba/Malware-Analysis |
+
 
 ## Skills
 ### Operating Systems
