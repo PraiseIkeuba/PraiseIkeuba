@@ -1,7 +1,7 @@
 # Hi, I'm Ikeuba Praise
 
 ## About Me 
-I am a Cybersecurity student at NIIT Port Harcourt, passionate about offensive and defensive cybersecurity.
+I am a Cybersecurity analyst at NIIT Port Harcourt, passionate about offensive and defensive cybersecurity.
 I enjoy building practical cybersecurity projects that demonstrate real world skills in:
 - Penetration Testing
 - Log Analysis
