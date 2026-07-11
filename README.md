@@ -1,4 +1,4 @@
-# Hi, I'm Ikeuba Praise
+# Hi, I'm Ikeuba Praise Chigozirim
 
 ## About Me 
 I am a Cybersecurity analyst at NIIT Port Harcourt, passionate about offensive and defensive cybersecurity.
