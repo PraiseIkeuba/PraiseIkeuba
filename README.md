@@ -24,7 +24,7 @@ I build practical, hands-on cybersecurity projects that demonstrate real-world s
 ## Projects
 | Project | Description | Repository |
 | ------- | ----------- | ---------- |
-| 🔎 OSINT Investigation | Conducted an OSINT investigation on a target organisation | [View Repo →](https://github.com/PraiseIkeuba/osint-project) |
+| 🔎 OSINT Investigation | Conducted an OSINT investigation on a target organisation | [View Repo →](https://github.com/PraiseIkeuba/OSINT-Project) |
 | 📁 Log Analysis | Analysed IIS and Windows Event Logs to identify attacks | Coming Soon |
 | 🧬 Malware Analysis | Completed a malware analysis project | [View Repo →](https://github.com/PraiseIkeuba/Malware-Analysis) |
 
