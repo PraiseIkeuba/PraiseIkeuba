@@ -52,4 +52,5 @@ I enjoy building practical cybersecurity projects that demonstrate real world sk
 - NIIT Port Harcourt: Cybersecurity Program
 
 ## Contact
-- praiseikeuba@gmail.com
+- Email: praiseikeuba@gmail.com, ikeubapraise@gmail.com
+- Linkedin: https://www.linkedin.com/in/praise-ikeuba-5a9900278/
